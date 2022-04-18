@@ -21,5 +21,9 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 
+Screenshot:-
+<img width="1280" alt="Screen Shot 2022-04-18 at 5 09 08 PM" src="https://user-images.githubusercontent.com/99306075/163878626-599d1456-3bab-4c88-8a7e-e89f8f69e2ff.png">
+
+
 
 Github link:-https://jvirk10.github.io/quiz/
